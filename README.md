@@ -17,3 +17,6 @@ npx i kaun_banega_crorepathi
 </ul>
 
 <h1>lets see if you can get all the answers right and win 1 crore rupees</h1>
+
+Ps: don't come and ask for 1 crore rupees..i am broke 😅.
+Thank you
