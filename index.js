@@ -13,7 +13,7 @@ import { createSpinner } from 'nanospinner';// used to create a loading spinner 
 
 let playerName;
 
-const sleep = (ms = 3000) => new Promise((resolve) => setTimeout(resolve, ms)); //each animation should be shown as all cannot be executed at the same time
+const sleep = (ms = 2000) => new Promise((resolve) => setTimeout(resolve, ms)); //each animation should be shown as all cannot be executed at the same time
 
 async function stage() {
   const rainbowTitle = chalkanimation.rainbow( //provides ux animation to the title
@@ -143,7 +143,7 @@ async function correct_Answer(correct) {
 
 function winner() {
   console.clear();
-  const msg = `Congratulation ${playerName} !\n you have won 1 , 0 0 , 0 0 , 0 0 0 r `;
+  const msg = `Congratulation ${playerName} !\n you won 1 , 0 0 , 0 0 , 0 0 0 r `;
 
   figlet(msg, (err, data) => {
     console.log(gradient.pastel.multiline(data));
