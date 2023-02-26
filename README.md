@@ -1,4 +1,4 @@
-<h1> kaun banega crorepathi </hi>
+<h1> kaun banega crorepathi </h1>
 <br>
 its a simple javascipt program using node.js in command line interface
 <br>
