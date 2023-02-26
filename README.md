@@ -2,15 +2,15 @@
 <br>
 its a simple javascipt program using node.js in command line interface
 <br>
-<h1> you can try it out using this link </h1>
+<h2> you can try it out using this link </h2>
 
 
 <br>
-<h2> the following packages used are <h2>
+<h2> the following packages used are </h2>
 <ol>
-chalk
-chalk-animation
-figlet
-nanospinner
-gradient-string
+<li>chalk</li>
+<li>chalk-animation</li>
+<li>figlet</li>
+<li>nanospinner</li>
+<li>gradient-string</li>
 </ol>
