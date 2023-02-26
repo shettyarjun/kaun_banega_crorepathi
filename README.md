@@ -16,4 +16,4 @@ The code uses chalk, chalk-animation, figlet, gradient-string, nanospinner to pr
 <li>inquirer</li>
 </ul>
 
-<h1>lets see if you can all the answers right and win 1 crore rupees</h1>
+<h1>lets see if you can get all the answers right and win 1 crore rupees</h1>
