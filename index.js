@@ -143,7 +143,7 @@ async function correct_Answer(correct) {
 
 function winner() {
   console.clear();
-  const msg = `Congratulation ${playerName} !\n you won 1 , 0 0 , 0 0 , 0 0 0 r `;
+  const msg = `Congratulation ${playerName} !\n you won 1 , 0 0 , 0 0 , 0 0 0 `;
 
   figlet(msg, (err, data) => {
     console.log(gradient.pastel.multiline(data));
