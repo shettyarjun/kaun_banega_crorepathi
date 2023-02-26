@@ -2,7 +2,7 @@
 It is a simple javascipt program using node.js in command line interface
 The code uses chalk, chalk-animation, figlet, gradient-string, nanospinner to provide a beautiful interface wheras it uses inquirer to create a multiple choice feature when in the cli.
 <br>
-<h2> you can try it out using this link </h2>
+<h2> you can try it out using this command in the terminal</h2>
 npm i kaun_banega_crorepathi
 
 <br>
